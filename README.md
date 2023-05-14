@@ -24,9 +24,9 @@ My skills and tools that I use or have used.
 ## Connect with Me 🤝🏻
 
 [![Github Pages](https://img.shields.io/badge/saloricardo-121013?style=for-the-badge&logo=github&logoColor=white&label=github)](https://github.com/saloricardo)
-[![LinkedIn](https://img.shields.io/badge/saloricardo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/saloricardo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin)](https://www.linkedin.com/in/saloricardo/)
 [![Instagram](https://img.shields.io/badge/saloricardo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&label=instagram)](https://www.instagram.com/saloricardo/)
-[![Gmail](https://img.shields.io/badge/salomaoricardodr-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=gmail)](salomaoricardodr@gmail.com)
+[![Gmail](https://img.shields.io/badge/salomaoricardodr-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=gmail)](mailto:salomaoricardodr@gmail.com)
 
 
 
