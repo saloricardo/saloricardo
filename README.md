@@ -1,6 +1,6 @@
 # Hi there, Welcome to my Github profile! 
 
-I'm Salomão Rodrigues, I live in Rio Grande do Sul, Brazil. I have a degree in Computer Networks from Senac/RS, a respected college in the technology field. I currently work at NOC and I'm studying programming for personal projects and for projects at the place where I work.
+I'm Salomão Rodrigues, I live in Rio Grande do Sul, Brazil. I have a degree in Computer Networks from Senac/RS, a respected college in the technology field. I currently work at NOC and I'm studying programming for personal projects and for projects at my job.
 
 Note: I still don't have projects published here on Github or involvement with any open source, but I intend to update this soon.
 
