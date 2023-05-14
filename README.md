@@ -21,7 +21,7 @@ My skills and tools that I use or have used.
 
 ---
 
-## Connect with Me 🤝🏻
+## 🤝🏻 Connect with Me
 
 [![Github Pages](https://img.shields.io/badge/saloricardo-121013?style=for-the-badge&logo=github&logoColor=white&label=github)](https://github.com/saloricardo)
 [![LinkedIn](https://img.shields.io/badge/saloricardo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin)](https://www.linkedin.com/in/saloricardo/)
